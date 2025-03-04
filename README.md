@@ -1,3 +1,67 @@
+
+# אפליקציית ניהול משימות עם QuoteBox
+
+הפרויקט הזה הוא אפליקציית ניהול משימות שנבנתה ב-React. היא מאפשרת למשתמשים ליצור, לעקוב ולמיין משימות, כמו גם לסמן אותן כמשימות שהושלמו או למחוק אותן. בנוסף, מוצג ציטוט אקראי מ-API חיצוני בראש הדף.
+
+## תכונות
+
+- הוספת משימות חדשות עם שם משימה ותיאור.
+- סימון משימות כמשימות שהושלמו ומחיקתן.
+- מיון המשימות לפי סטטוס (הכל, משימות שהושלמו, משימות שלא הושלמו).
+- הצגת ציטוט אקראי מ-API חיצוני.
+
+
+- React (עם TypeScript)
+- React Bootstrap (לרכיבי ממשק משתמש)
+- LocalStorage (לשמירה על המשימות לאחר ריענון הדף)
+- API חיצוני לציטוטים אקראיים (`https://qapi.vercel.app/api/random`)
+
+הרץ את הפקודה הבאה על מנת להתקין את כל התלויות:
+npm install
+
+לאחר התקנת התלויות, הרץ את הפקודה הבאה על מנת להפעיל את השרת המקומי:
+npm run dev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # TaskWeb List Application
 
 This project is a TypeScript-based **TaskWeb List application** designed as part of a software engineering assignment. It showcases advanced TypeScript features, integration with external APIs, and React-based SPA functionality.
